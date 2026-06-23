@@ -18,7 +18,7 @@
 Role:    AI/ML & Computer Vision Developer
 Stack:   Python | OpenCV | Flask | ML | YOLO
 Focus:   AI-powered apps used in real industries
-Hobbies: Workout · Gaming · Travel · Research
+Hobbies: Workout · Anime · Travel · Research
 ```
 
 ---
