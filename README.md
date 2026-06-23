@@ -23,7 +23,7 @@ Hobbies: Workout · Gaming · Travel · Research
 
 ---
 
-<img src="https://github.com/madan-design/assets/blob/main/Cat%20Working%20GIF.gif?raw=true" width="400" alt="Coding Cat"/>
+<img src="https://media1.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" alt="Cat Working"/>
 
 ---
 
@@ -102,6 +102,12 @@ Hobbies: Workout · Gaming · Travel · Research
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=madan-design&theme=merko&hide_border=true&layout=compact)
 [![LeetCode](https://leetcard.jacoblin.cool/Madan_0910?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/u/Madan_0910/)
+
+---
+
+## 📈 Activity Status
+
+[![Activity Status](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madan-design&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
