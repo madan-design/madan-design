@@ -23,10 +23,7 @@ Hobbies: Workout · Gaming · Travel · Research
 
 ---
 
-<!-- Light Yagami Death Note GIF - hosted on tenor (reliable) -->
-<img src="https://media.tenor.com/yhFNHhAATGsAAAAC/death-note-light-yagami.gif" width="380" alt="Light Yagami - Death Note"/>
-
-> *"This is exactly as planned."* — Light Yagami, probably debugging at 3AM 🖊️💻
+<img src="https://github.com/madan-design/assets/blob/main/Cat%20Working%20GIF.gif?raw=true" width="400" alt="Coding Cat"/>
 
 ---
 
@@ -105,8 +102,6 @@ Hobbies: Workout · Gaming · Travel · Research
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=madan-design&theme=merko&hide_border=true&layout=compact)
 [![LeetCode](https://leetcard.jacoblin.cool/Madan_0910?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/u/Madan_0910/)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=madan-design&theme=merko&no-frame=true&margin-w=4)
 
 </div>
 
