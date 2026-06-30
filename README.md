@@ -71,7 +71,7 @@ Hobbies: Workout · Anime · Travel · Research
 
 | Project | Description | Links |
 |:---|:---|:---|
-| 🪵 **Stains, Wood & Winds** | CV defect detection for manufacturing | [![GitHub](https://img.shields.io/badge/-Repo-181717?logo=github&logoColor=white)](https://github.com/madan-design/Stains-Wood-Winds) ![Live](https://img.shields.io/badge/-Live-brightgreen) |
+| 🪵 **Stains Woodwinds** | CV defect detection for manufacturing | [![GitHub](https://img.shields.io/badge/-Repo-181717?logo=github&logoColor=white)](https://github.com/madan-design/Stains-Wood-Winds) ![Live](https://img.shields.io/badge/-Live-brightgreen) |
 | 📋 **SVJM Quote Generator** | Enterprise quote platform for businesses | [![GitHub](https://img.shields.io/badge/-Repo-181717?logo=github&logoColor=white)](https://github.com/madan-design/SVJM) [![App](https://img.shields.io/badge/-Live%20App-00C7B7?logoColor=white)](https://madan-design.github.io/SVJM/) |
 
 ---
